@@ -6,7 +6,7 @@ namespace MovieFinder.Interfaces
 	{
 		List<Platform> ReadAll();
 
-        Plataform GetByName(string name);
+        Platform GetByName(string name);
 
 		Platform Add(Platform platform);
 
