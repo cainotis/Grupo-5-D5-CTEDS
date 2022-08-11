@@ -6,6 +6,8 @@ namespace  MovieFinder.Interfaces
 	{
 		List<Movie> ReadAll();
 
+		Movie GetByName(string name);
+
 		Movie Add(Movie movie);
 
 		Movie Update(Movie movie);
