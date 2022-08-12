@@ -18,3 +18,9 @@ O *MovieFinder* é uma aplicação *web* que permite o usuário inserir o nome d
 - Crawler: Inspeciona os resultados de busca de alguma *search engine* (ex: Google), e retorna os dados relevantes ao usuário, tal como plataformas disponíveis para ver o filme.
 
 - Ferramenta de busca: O banco de dados interno da aplicação procura pelo filme desejado, caso não haja essa informação no banco, será buscado o filme e inserido no banco de dados para exibição.
+
+## Protótipo
+
+Abaixo temos o desenho do protótipo de baixa fidelidade
+
+![Protótipo de baixa fidelidade](/assets/Prototipo_de_baixa_fidelidade.png "Protótipo de baixa fidelidade")
