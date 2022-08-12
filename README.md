@@ -3,8 +3,19 @@ Atividade do modulo 5 do curso CTEDS
 
 ## Visão Geral
 <div style="text-align: justify">  
-O *MovieFinder* é uma aplicação *web* que permite o usuário inserir o nome de um filme e a aplicação retorna quais plataformas legais existem para assistir o filme desejado. Essa aplicação tem como público alvo pessoas que utilizam múltiplas plataformas de *streaming*, pensando principalmente em um público de 20 à 60 anos de idade.
+O *MovieFinder* é uma aplicação web que permite o usuário inserir o nome de um filme e a aplicação retorna quais plataformas legais existem para assistir o filme desejado. Essa aplicação tem como público alvo pessoas que utilizam múltiplas plataformas de *streaming*, pensando principalmente em um público de 20 à 60 anos de idade.
 </div>
+
+## Organização do projeto
+No presente repositório constam as entregas solicitadas pela disciplina D5 do curso CTEDS. As localizações dos arquivos das entregas em questão podem ser acessadas abaixo:
+
+* [Documento com registro das reuniões](https://github.com/cainotis/Grupo-5-D5-CTEDS/blob/main/REGISTRO.md)
+* [Arquivo de competências](https://github.com/cainotis/Grupo-5-D5-CTEDS/blob/main/COMPETENCIAS.md)
+* [Documento de arquitetura](https://github.com/cainotis/Grupo-5-D5-CTEDS/blob/main/ARQUITETURA.md)
+* [Documento com feedback fornecidos pela professora](https://github.com/cainotis/Grupo-5-D5-CTEDS/blob/main/FEEDBACK.md)
+* [User stories](https://github.com/cainotis/Grupo-5-D5-CTEDS/issues#workspaces/cteds-grupo-5-62f1a57574399800164e77ec/board)
+
+Algumas outras entregas solicitadas, como as tencologias utilizadas no projeto, encontram-se no presente arquivo.
 
 ## Tecnologias 
 
