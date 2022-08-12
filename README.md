@@ -25,11 +25,11 @@ Algumas outras entregas solicitadas, como as tencologias utilizadas no projeto, 
 | **Front End**      | ASP.NET Core, React               |
 | **Back End**       | ASP.NET Core                      |
 
-## O que o **MovieFinder** pode fazer?
-- Crawler: Inspeciona os resultados de busca de alguma *search engine* (ex: Google), e retorna os dados relevantes ao usuário, tal como plataformas disponíveis para ver o filme.
+## O que o **MovieFinder** poderá fazer?
 
-- Ferramenta de busca: O banco de dados interno da aplicação procura pelo filme desejado, caso não haja essa informação no banco, será buscado o filme e inserido no banco de dados para exibição.
-
+- Buscar nas plataformas de streaming: Essa busca será feita através de algumas ferramentas, optando por um api já existente para uma plataforma de streaming ou fazendo um crawler que recolhe informações de um site de busca (como o Google) e tratando os dados. Quando a busca for finalizada, os dados são salvos no banco de dados para futuras buscas.
+- Buscar no banco de dados: O banco de dados interno da aplicação procura pelo filme desejado, caso não haja essa informação no banco, será buscado o filme e inserido no banco de dados para exibição.
+ 
 ## Protótipo
 
 Abaixo temos o desenho do protótipo de baixa fidelidade
