@@ -12,7 +12,7 @@ O back end será feito usando o ASP.NET Core (6.0).\
 O banco de dados utilizado será o PostgreSQL.\
 A ferramenta de busca utilizará uma das duas tecnologias a seguir:
 - [ ] Crawler
-- [ ] Api já existente
+- [x] Api já existente
 
 ### Arquitetura
 ##### A arquitetura da aplicação é a seguinte:
