@@ -17,3 +17,11 @@
 ### Reunião (10/08)
 - Conclusão do User Story Map.
 - Transposição do conteúdo do User Story Map para a seção de issues do repositório.
+
+### Reunião (12/08)
+- Delegação de atividades para a finalização do projeto.
+- Revisão do arquivo de arquitetura.
+- Reorganização do arquivo README.md.
+- Organização de alguns arquivos presentes na raiz da pasta.
+- Protótipo de baixa fidelidade.
+- Protótipo de alta fidelidade.
