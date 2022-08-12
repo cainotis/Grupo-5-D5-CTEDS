@@ -1,4 +1,5 @@
 using MovieFinder.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace  MovieFinder.Interfaces
 {
