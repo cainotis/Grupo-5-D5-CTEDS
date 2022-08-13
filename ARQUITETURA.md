@@ -10,9 +10,11 @@ Para evitar a falha do programa, será usado um Load Balancer, e multiplas insta
 O front end será feito usando o ASP.NET Core (6.0), react. \
 O back end será feito usando o ASP.NET Core (6.0).\
 O banco de dados utilizado será o PostgreSQL.\
-A ferramenta de busca utilizará uma das duas tecnologias a seguir:
-- [ ] Crawler
-- [x] Api já existente
+A ferramenta de busca utilizará as duas tecnologias a seguir a depender da plataforma:
+- Crawler
+- Api já existente
+
+O protótipo utilizará um api já existente para recolher dados da netflix ([link](https://rapidapi.com/rasiqueira/api/netflix-unofficial/)).
 
 ### Arquitetura
 ##### A arquitetura da aplicação é a seguinte:
