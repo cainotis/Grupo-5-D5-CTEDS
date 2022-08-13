@@ -35,3 +35,5 @@ Algumas outras entregas solicitadas, como as tencologias utilizadas no projeto, 
 Abaixo temos o desenho do protótipo de baixa fidelidade
 
 ![Protótipo de baixa fidelidade](/assets/Prototipo_de_baixa_fidelidade.png "Protótipo de baixa fidelidade")
+
+Foi feito também um protótipo de alta fidelidade com o figma, ele está disponível clicando [aqui](https://www.figma.com/file/rMVBBpQ9P3HtsG7iwqfv8o/MovieFinder?node-id=1%3A7).
